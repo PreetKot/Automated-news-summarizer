@@ -10,12 +10,12 @@ The Automated News Summarizer is an intelligent system that leverages AI to stre
 
 ## ✨ Features
 
-- 🔍 **Automated News Fetching**: Automatically retrieves the latest news from multiple sources
-- 📝 **AI-Powered Summarization**: Generates concise summaries using advanced language models
-- 🎯 **Smart Categorization**: Organizes news by topics and relevance
+- 🔍 **Automated News Fetching**:  Automatically retrieves the latest news from multiple sources
+- 📝 **AI-Powered Summarization**:  Generates concise summaries using advanced language models
+- 🎯 **Smart Categorization**:  Organizes news by topics and relevance
 - 🔄 **Real-time Processing**: Processes news articles as they become available
-- 📊 **Insights Generation**: Extracts key insights and trends from news data
-- 🛠️ **Multi-Tool Integration**: Combines multiple AI tools for comprehensive analysis
+- 📊 **Insights Generation**:  Extracts key insights and trends from news data
+- 🛠️ **Multi-Tool Integration**:  Combines multiple AI tools for comprehensive analysis
 
 ## 🚀 Getting Started
 
@@ -60,7 +60,7 @@ The system consists of multiple components:
 
 1. **News Fetcher**: Retrieves articles from configured sources
 2. **Preprocessor**: Cleans and prepares text for analysis
-3. **AI Summarizer**: Generates summaries using LLMs
+3. **AI Summarizer**:  Generates summaries using LLMs
 4. **Insight Extractor**: Identifies key trends and patterns
 5. **Output Manager**: Formats and delivers results
 
@@ -92,4 +92,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-⭐ Star this repository if you find it helpful!
+⭐ Star this repository if you find it helpful! 
